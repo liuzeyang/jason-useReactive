@@ -1,7 +1,10 @@
 {
-  "private": true,
-  "name": "@jason-design/useReactive",
+  "name": "@jason-design/reactive",
   "version": "1.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "jasonlzy",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
